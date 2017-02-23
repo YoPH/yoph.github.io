@@ -372,3 +372,12 @@ Small Device Styles
     ma
   }
 }
+
+/*** MODIFY BY PH ***/
+h3 {
+    color: #fff;
+}
+
+.italic{
+    font-style: italic;
+}
